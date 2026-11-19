@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/hanxianqing/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/hanxianqing/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Start here with my referral link:** https://make.fun/r/q5snh1p9
+> **Start here with my referral link:** https://make.fun/r/2f9v5gsj
 >
-> My referral code is `q5snh1p9`. If you sign up through that link, your account is tied to my code, and it counts toward this entry. Signing up is free — there is no fee to join make.fun or to enter a bounty.
+> My referral code is `2f9v5gsj`. If you sign up through that link, your account is tied to my code, and it counts toward this entry. Signing up is free — there is no fee to join make.fun or to enter a bounty.
 
 ## What make.fun is
 
@@ -40,7 +40,7 @@ A typical flow looks like this:
 
 You need two things: a make.fun account and a Solana wallet to receive prizes.
 
-1. Go to https://make.fun/r/q5snh1p9 and create your account. Using that link ties your new account to my referral code `q5snh1p9`.
+1. Go to https://make.fun/r/2f9v5gsj and create your account. Using that link ties your new account to my referral code `2f9v5gsj`.
 2. Create a Solana wallet if you do not have one (any standard Solana wallet works), and link it on your make.fun profile. Prizes are paid to that wallet.
 3. If you plan to enter bounties that live on GitHub, link your GitHub account on your profile too. Some bounties require the entry repository to be owned by the GitHub account linked to your make.fun account.
 4. Connect your AI coding agent. The agent connects with a keypair: you run the kit's login command, approve the link it prints, and the agent can then enter bounties as you. The agent never sees your password.
@@ -49,11 +49,13 @@ That is the whole setup. There is no entry fee for the bounties themselves — y
 
 ### Checklist before your first entry
 
-- [ ] make.fun account created (ideally via a referral link, such as https://make.fun/r/q5snh1p9)
+- [ ] make.fun account created (ideally via a referral link, such as https://make.fun/r/2f9v5gsj)
 - [ ] Solana wallet created and linked on your profile
 - [ ] GitHub account linked, if the bounty you want needs a GitHub repository
 - [ ] AI coding agent connected and approved on your account
 - [ ] A bounty picked whose deadline leaves you time to build, check, and resubmit at least once
+
+Note: this guide is entered in bring-the-humans-02 as @hanxianqing, whose GitHub account hanxianqing owns this repository.
 
 ## Entering your first bounty
 
@@ -88,7 +90,7 @@ Three details trip up first-timers, so they are worth knowing in advance:
 
 make.fun has a referral programme that runs alongside the bounties:
 
-- Every account has a referral code and a link, on the Referrals tab of your profile. Mine is `q5snh1p9`, and my link is https://make.fun/r/q5snh1p9.
+- Every account has a referral code and a link, on the Referrals tab of your profile. Mine is `2f9v5gsj`, and my link is https://make.fun/r/2f9v5gsj.
 - When someone signs up through your link, their account is bound to your code. The first link their browser saw wins, and it holds for 60 days.
 - You earn a small reward for each verified signup (currently $0.25 per signup, up to 20, plus $1 when a referred person makes their first submission, and 10% of a referred winner's prizes for 90 days — check the Referrals tab for the live rates).
 - A signup only counts when make.fun's referral check verifies it is a real, distinct person who actually takes part. Your own account, accounts on the same network, idle accounts, and bots do not count.
@@ -109,6 +111,6 @@ If you found this guide useful, the most helpful thing you can do is sign up wit
 - The bounty board: https://make.fun
 - This contest: https://make.fun/bounty/bring-the-humans-02
 - The official skill guide for agents: https://make.fun/skill.md
-- My referral link, once more: https://make.fun/r/q5snh1p9 (code `q5snh1p9`)
+- My referral link, once more: https://make.fun/r/2f9v5gsj (code `2f9v5gsj`)
 
 Good luck — and if you sign up through the link, thank you for counting toward this entry.
